@@ -1,4 +1,4 @@
-#Hospital-Management-System
+# Hospital-Management-System
 
 PROJECT OBJECTIVE
 
@@ -11,7 +11,7 @@ interact with sensitive data.This improves security and speeds up data processin
 
 ____________________________________________
 
-#SOFTWARE REQUIREMENTS
+# SOFTWARE REQUIREMENTS
 
 1.Frontend: Tkinter
 
@@ -22,7 +22,7 @@ ____________________________________________
 
 ____________________________________________
 
-#FEATURES
+# FEATURES
 
 1.User Authentication: Secure login with role-based access.
 
@@ -38,7 +38,7 @@ ____________________________________________
 
 ____________________________________________
 
-#OUTPUTS:
+# OUTPUTS:
 1. If username and password is valid.
 ![image alt](https://github.com/adarsh2345-cyber/Hospital-Management-System/blob/54250cb5837ec40095a79558d5f69359db89712f/login-1.jpg) 
 
@@ -64,7 +64,7 @@ Patient Registration-Delete
 ![image alt](https://github.com/adarsh2345-cyber/Hospital-Management-System/blob/0c4af8a1e9be1b97dd33853a38e700e4fb4ff8c1/Images/pat-reg-4.jpg) 
 
 
-#Room Allocation 
+# Room Allocation 
 
 Submit 
 
@@ -77,7 +77,7 @@ Update
 Room Details 
 ![image alt](https://github.com/adarsh2345-cyber/Hospital-Management-System/blob/6ed68d408cf51136f244508a9964c9859587322f/Images/room-alloc-3.jpg) 
 
-#Employee Registration 
+# Employee Registration 
 
 Save 
 
@@ -87,11 +87,14 @@ Delete
 
 ![image alt](https://github.com/adarsh2345-cyber/Hospital-Management-System/blob/e147c7209f434f055fceaea4975d5345f7186541/Images/emp-reg-2.jpg) 
 
+# Book Appointment 
+Save 
 ![image alt]
 
+Delete
 ![image alt]
 
-
+Search Appointment
 ![image alt]
 
 ![image alt]
