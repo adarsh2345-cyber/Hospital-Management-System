@@ -68,7 +68,7 @@ Patient Registration-Delete
 
 Submit 
 
-![image alt]
+![image alt](https://github.com/adarsh2345-cyber/Hospital-Management-System/blob/b292d2334ad721c8f292adf1391805cd981e2d3e/Images/room-alloc-1.jpg) 
 
 Update 
 
