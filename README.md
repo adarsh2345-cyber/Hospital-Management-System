@@ -80,7 +80,8 @@ Room Details
 #Employee Registration 
 
 Save 
-![image alt]
+
+![image alt](https://github.com/adarsh2345-cyber/Hospital-Management-System/blob/b3f13fc76b7d90b4ef4946b4208fcedc66fffc26/Images/emp-reg-1.jpg) 
 
 Delete
 
