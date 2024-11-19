@@ -100,7 +100,7 @@ Search Appointment
 # Patient Bill
 
 Update Data 
-![image alt]
+![image alt](https://github.com/adarsh2345-cyber/Hospital-Management-System/blob/c92d45c175dc79e751f39564201532b51bcdbaaa/Images/pat-bill-1.jpg) 
 
 Discharge Date 
 ![image alt]
