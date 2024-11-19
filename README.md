@@ -72,7 +72,7 @@ Submit
 
 Update 
 
-![image alt]
+![image alt](https://github.com/adarsh2345-cyber/Hospital-Management-System/blob/205b9fdac7ca00cce4b28012466aa2d340fcfd95/Images/room-alloc-2.jpg) 
 
 Room Details 
 ![image alt]
