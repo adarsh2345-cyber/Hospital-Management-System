@@ -40,3 +40,4 @@ ____________________________________________
 
 #OUTPUTS:
 1. If username and password is valid.
+![image alt](https://github.com/adarsh2345-cyber/Hospital-Management-System/blob/54250cb5837ec40095a79558d5f69359db89712f/login-1.jpg) 
