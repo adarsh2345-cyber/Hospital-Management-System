@@ -129,5 +129,79 @@ python main.py
 
 # DATASET 
 
+## 1. Patients Dataset
 
+This dataset stores information about the patients.
 
+| Patient_ID | First_Name | Last_Name | DOB        | Gender | Contact_Number | Email_Address        | Address                    | Emergency_Contact | Blood_Type | Insurance_Details  | Medical_History           |
+|------------|------------|-----------|------------|--------|----------------|----------------------|----------------------------|-------------------|------------|---------------------|---------------------------|
+| 1          | Aarav      | Patel     | 1990-05-14 | Male   | 9876543210     | aarav.patel@mail.com  | 45, Park Street, Mumbai     | 9876543211        | B+         | Bajaj Allianz       | Asthma                    |
+| 2          | Priya      | Sharma    | 1985-09-22 | Female | 9234567890     | priya.sharma@mail.com | 12, MG Road, Bangalore     | 7890123456        | O-         | ICICI Lombard       | Hypertension              |
+
+## 2. Doctors Dataset
+
+This dataset contains information about the doctors working at the hospital.
+
+| Doctor_ID | First_Name | Last_Name | Specialization    | Contact_Number | Email_Address        | Years_Of_Experience | Qualifications                | Consultation_Fee |
+|-----------|------------|-----------|-------------------|----------------|----------------------|----------------------|-------------------------------|------------------|
+| 1         | Dr. Ramesh | Kumar     | Cardiologist      | 9023456789     | ramesh.kumar@mail.com | 15                   | MBBS, MD (Cardiology)         | ₹1500            |
+| 2         | Dr. Aditi  | Verma     | Neurologist       | 9876543210     | aditi.verma@mail.com  | 12                   | MBBS, DM (Neurology)          | ₹1200            |
+| 3         | Dr. Rajesh | Desai     | Orthopedic        | 8765432109     | rajesh.desai@mail.com | 10                   | MBBS, D'Ortho (Orthopedics)   | ₹1000            |
+
+## 3. Appointments Dataset
+
+This dataset stores information about appointments between patients and doctors.
+
+| Appointment_ID | Patient_ID | Doctor_ID | Appointment_Date | Appointment_Time | Reason_For_Visit    | Status    | Prescription_Issued |
+|----------------|------------|-----------|------------------|------------------|---------------------|-----------|---------------------|
+| 1              | 1          | 2         | 2024-11-20       | 10:00 AM         | Headache            | Scheduled | Yes                 |
+| 2              | 2          | 1         | 2024-11-21       | 11:30 AM         | Chest Pain          | Completed | No                  |
+
+## 4. Medical Records Dataset
+
+This dataset contains medical records for each patient, including diagnostic information, treatment plans, and outcomes.
+
+| Record_ID | Patient_ID | Doctor_ID | Diagnosis         | Treatment                | Prescription           | Date_of_Treatment | Outcome    | Follow_Up_Date |
+|-----------|------------|-----------|-------------------|--------------------------|------------------------|-------------------|------------|----------------|
+| 1         | 1          | 2         | Migraine          | Pain relief therapy       | Ibuprofen              | 2024-11-20        | Recovered  | 2024-12-01     |
+| 2         | 2          | 1         | Angina            | Angioplasty              | Aspirin                | 2024-11-21        | Stable     | 2024-12-10     |
+
+## 5. Billing Dataset
+
+This dataset stores information related to the charges for each patient, including consultation fees, tests, and medicines.
+
+| Bill_ID | Patient_ID | Appointment_ID | Consultation_Fee | Tests_Charges | Medicine_Charges | Total_Amount | Payment_Status | Payment_Method |
+|---------|------------|----------------|------------------|----------------|------------------|--------------|----------------|----------------|
+| 1       | 1          | 1              | ₹1500            | ₹500           | ₹200             | ₹2200        | Paid           | Credit Card    |
+| 2       | 2          | 2              | ₹1200            | ₹800           | ₹250             | ₹2250        | Pending        | Insurance      |
+
+## 6. Staff Dataset
+
+This dataset includes information about the hospital's staff (nurses, technicians, administrative staff).
+
+| Staff_ID | First_Name | Last_Name | Role            | Contact_Number | Email_Address        | Shift_Timing     |
+|----------|------------|-----------|-----------------|----------------|----------------------|------------------|
+| 1        | Sunita     | Yadav     | Nurse           | 9812345670     | sunita.yadav@mail.com | 9:00 AM - 5:00 PM |
+| 2        | Manoj      | Reddy     | Receptionist    | 9898765432     | manoj.reddy@mail.com  | 8:00 AM - 4:00 PM |
+| 3        | Sandeep    | Mehta     | Lab Technician  | 9345678901     | sandeep.mehta@mail.com| 10:00 AM - 6:00 PM |
+
+## 7. Inventory Dataset
+
+This dataset tracks medical supplies and equipment used in the hospital.
+
+| Item_ID | Item_Name      | Category    | Quantity_in_Stock | Supplier          | Purchase_Price | Expiry_Date |
+|---------|----------------|-------------|--------------------|-------------------|----------------|-------------|
+| 1       | Paracetamol    | Medicine    | 500                | MedLife Pharma    | ₹5              | 2025-12-01  |
+| 2       | ECG Machine    | Equipment   | 3                  | HealthTech Ltd.   | ₹2,00,000       | 2028-05-10  |
+| 3       | Glucometer     | Equipment   | 20                 | MedTech Solutions | ₹1,500          | 2027-03-01  |
+
+## 8. Emergency Contacts Dataset
+
+This dataset stores emergency contacts for patients, typically relatives or close friends.
+
+| Contact_ID | Patient_ID | Emergency_Contact_Name | Relationship | Contact_Number | Email_Address         |
+|------------|------------|------------------------|--------------|----------------|-----------------------|
+| 1          | 1          | Meera Patel            | Mother       | 9876543211     | meera.patel@mail.com  |
+| 2          | 2          | Rajesh Sharma          | Husband      | 9234567891     | rajesh.sharma@mail
+
+---
