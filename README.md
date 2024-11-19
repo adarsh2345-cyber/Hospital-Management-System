@@ -49,8 +49,11 @@ ____________________________________________
 
 ![image alt](https://github.com/adarsh2345-cyber/Hospital-Management-System/blob/8fc6aa235c0218df55db5bc7ed03c5d53088c6b9/menu.jpg)
 
-5. Patient Registration Form
-![image alt]
+4.Patient Registration Form
+Patient Registration-SUBMIT
+![image alt](https://github.com/adarsh2345-cyber/Hospital-Management-System/blob/98e44a9a552a2880c35ab257d10d310aebb6d09c/pat-reg-1.jpg) 
+
+Patient Registration- Update 
 ![image alt]
 ![image alt]
 ![image alt]
