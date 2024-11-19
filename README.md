@@ -61,12 +61,20 @@ Patient Registration-Search
 ![image alt](https://github.com/adarsh2345-cyber/Hospital-Management-System/blob/22455dacb12354ad46bb7039e35e04e36ef6ca7d/Images/pat-reg-3.jpg) 
 
 Patient Registration-Delete 
-![image alt]
+![image alt](https://github.com/adarsh2345-cyber/Hospital-Management-System/blob/0c4af8a1e9be1b97dd33853a38e700e4fb4ff8c1/Images/pat-reg-4.jpg) 
+
+
+#Room Allocation 
+
+Submit 
 
 ![image alt]
 
+Update 
+
 ![image alt]
 
+Room Details 
 ![image alt]
 
 ![image alt]
