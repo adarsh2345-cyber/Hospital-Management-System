@@ -103,7 +103,7 @@ Update Data
 ![image alt](https://github.com/adarsh2345-cyber/Hospital-Management-System/blob/c92d45c175dc79e751f39564201532b51bcdbaaa/Images/pat-bill-1.jpg) 
 
 Discharge Date 
-![image alt]
+![image alt](https://github.com/adarsh2345-cyber/Hospital-Management-System/blob/28afc15f3a1a63e0dbfcb11c3825e8b18154dae3/Images/pat-bill-2.jpg) 
 
 Generate Bill 
 ![image alt]
