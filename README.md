@@ -97,6 +97,15 @@ Delete
 Search Appointment
 ![image alt](https://github.com/adarsh2345-cyber/Hospital-Management-System/blob/ad4b0374c9dbbf6a8316bba4a33910a471fb1d96/Images/book-app-3.jpg) 
 
+# Patient Bill
+
+Update Data 
+![image alt]
+
+Discharge Date 
+![image alt]
+
+Generate Bill 
 ![image alt]
 
 
