@@ -75,6 +75,28 @@ Update
 ![image alt](https://github.com/adarsh2345-cyber/Hospital-Management-System/blob/205b9fdac7ca00cce4b28012466aa2d340fcfd95/Images/room-alloc-2.jpg) 
 
 Room Details 
+![image alt](https://github.com/adarsh2345-cyber/Hospital-Management-System/blob/6ed68d408cf51136f244508a9964c9859587322f/Images/room-alloc-3.jpg) 
+
+#Employee Registration 
+
+Save 
+![image alt]
+
+Delete
+
 ![image alt]
 
 ![image alt]
+
+![image alt]
+
+
+![image alt]
+
+![image alt]
+
+
+
+
+
+
