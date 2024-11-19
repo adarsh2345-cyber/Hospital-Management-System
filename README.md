@@ -109,6 +109,22 @@ Generate Bill
 ![image alt](https://github.com/adarsh2345-cyber/Hospital-Management-System/blob/9a75601c8c419c466eae734f7a84277bde1594ef/Images/pat-reg-3.jpg) 
 
 
+# HOW TO RUN
+
+1. Clone the repository:
+
+git clone https://github.com/adarsh2345-cyber/Hospital-Management-System.git  
+cd Hospital-Management-System
+
+
+2. Install dependencies:
+
+pip install -r requirements.txt
+
+
+3. Run the application:
+
+python main.py
 
 
 
