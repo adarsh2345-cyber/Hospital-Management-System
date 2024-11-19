@@ -92,7 +92,7 @@ Save
 ![image alt](https://github.com/adarsh2345-cyber/Hospital-Management-System/blob/c1899b50b97c3c4c33e1337119e28b770e15004f/Images/book-app-1.jpg) 
 
 Delete
-![image alt]
+![image alt](https://github.com/adarsh2345-cyber/Hospital-Management-System/blob/ae158cca375dcd5c16f4a2870daf87049232d747/Images/book-app-2.jpg) 
 
 Search Appointment
 ![image alt]
