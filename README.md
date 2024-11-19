@@ -85,7 +85,7 @@ Save
 
 Delete
 
-![image alt]
+![image alt](https://github.com/adarsh2345-cyber/Hospital-Management-System/blob/e147c7209f434f055fceaea4975d5345f7186541/Images/emp-reg-2.jpg) 
 
 ![image alt]
 
