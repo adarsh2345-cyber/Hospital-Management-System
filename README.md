@@ -106,7 +106,7 @@ Discharge Date
 ![image alt](https://github.com/adarsh2345-cyber/Hospital-Management-System/blob/28afc15f3a1a63e0dbfcb11c3825e8b18154dae3/Images/pat-bill-2.jpg) 
 
 Generate Bill 
-![image alt](https://github.com/adarsh2345-cyber/Hospital-Management-System/blob/9a75601c8c419c466eae734f7a84277bde1594ef/Images/pat-reg-3.jpg) 
+![image alt](https://github.com/adarsh2345-cyber/Hospital-Management-System/blob/cb27d267607acb28ff03564edd8ecbbdbcdf8926/Images/pat-bill-3.jpg) 
 
 
 # HOW TO RUN
