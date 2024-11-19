@@ -41,3 +41,6 @@ ____________________________________________
 #OUTPUTS:
 1. If username and password is valid.
 ![image alt](https://github.com/adarsh2345-cyber/Hospital-Management-System/blob/54250cb5837ec40095a79558d5f69359db89712f/login-1.jpg) 
+
+2.If username and password are invalid. 
+! [image alt](https://github.com/adarsh2345-cyber/Hospital-Management-System/blob/7bfa0c9770d834ee44acfb1dad07be4687350fc5/login-2.jpg) 
