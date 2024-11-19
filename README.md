@@ -58,7 +58,15 @@ Patient Registration- Update
 ![image alt](https://github.com/adarsh2345-cyber/Hospital-Management-System/blob/3b418cbb6f864c6379a1988bd2d5d4cedf4261b8/Images/pat-reg-2.jpg) 
 
 Patient Registration-Search 
-![image alt]
+![image alt](https://github.com/adarsh2345-cyber/Hospital-Management-System/blob/22455dacb12354ad46bb7039e35e04e36ef6ca7d/Images/pat-reg-3.jpg) 
 
 Patient Registration-Delete 
+![image alt]
+
+![image alt]
+
+![image alt]
+
+![image alt]
+
 ![image alt]
