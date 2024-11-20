@@ -38,6 +38,20 @@ ____________________________________________
 
 ____________________________________________
 
+# USE CASES
+
+### Use Cases
+
+| **Use Case**          | **Actor**           | **Outcome**                                                    |
+|------------------------|---------------------|----------------------------------------------------------------|
+| **Login**             | Admin, Receptionist | Secure access to the system. Role-based access to features.    |
+| **Patient Registration** | Admin, Receptionist | Add, update, delete, and retrieve patient details.             |
+| **Book Appointment**  | Receptionist, Patient | Schedule, reschedule, or cancel appointments with doctors.     |
+| **Assign Room**       | Admin               | Efficient allocation and tracking of room availability.        |
+| **Generate Bill**     | Admin               | Create and manage accurate patient bills.                      |
+| **View Records**      | Admin, Receptionist, Patient | Access relevant records: Admin (all data), Receptionist (operational data), Patient (personal data). |
+
+
 # OUTPUTS:
 1. If username and password is valid.
 ![image alt](https://github.com/adarsh2345-cyber/Hospital-Management-System/blob/54250cb5837ec40095a79558d5f69359db89712f/login-1.jpg) 
