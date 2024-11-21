@@ -219,3 +219,9 @@ This dataset stores emergency contacts for patients, typically relatives or clos
 | 2          | 2          | Rajesh Sharma          | Husband      | 9234567891     | rajesh.sharma@mail
 
 ---
+
+
+
+# ER DIAGRAM 
+
+![image alt](https://github.com/adarsh2345-cyber/Hospital-Management-System/blob/f603699c89424d9ccfe534643d23626ddee18d30/Untitled%20Diagram-Page-1.drawio.png) 
