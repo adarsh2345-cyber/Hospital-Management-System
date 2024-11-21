@@ -11,7 +11,7 @@ interact with sensitive data.This improves security and speeds up data processin
 
 ____________________________________________
 
-# SOFTWARE REQUIREMENTS
+# TECHNOLOGY STACK 
 
 1.Frontend: Tkinter
 
