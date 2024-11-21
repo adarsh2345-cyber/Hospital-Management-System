@@ -225,3 +225,10 @@ This dataset stores emergency contacts for patients, typically relatives or clos
 # ER DIAGRAM 
 
 ![image alt](https://github.com/adarsh2345-cyber/Hospital-Management-System/blob/f603699c89424d9ccfe534643d23626ddee18d30/Untitled%20Diagram-Page-1.drawio.png) 
+
+# FUTURE ENHANCEMENTS 
+
+1. Creating a Mobile Application
+2. Patient Diagnosis History
+3. Adding Medicine Records
+4. Adding Feedback and Support System
