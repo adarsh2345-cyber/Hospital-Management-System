@@ -227,7 +227,7 @@ This dataset stores emergency contacts for patients, typically relatives or clos
 
 # ER DIAGRAM 
 
-![image alt]([https://github.com/adarsh2345-cyber/Hospital-Management-System/blob/a82381e6a57f8c402ba220d75ba3616425f96dc2/Images/USE%20CASE%20DIAGRAM.png](https://github.com/adarsh2345-cyber/Hospital-Management-System/blob/a82381e6a57f8c402ba220d75ba3616425f96dc2/Images/ER%20DIAGRAM%20.png))
+![image alt](https://github.com/adarsh2345-cyber/Hospital-Management-System/blob/a82381e6a57f8c402ba220d75ba3616425f96dc2/Images/ER%20DIAGRAM%20.png)
 
 # FUTURE ENHANCEMENTS 
 
