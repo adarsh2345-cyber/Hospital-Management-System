@@ -51,6 +51,9 @@ ____________________________________________
 | **Generate Bill**     | Admin               | Create and manage accurate patient bills.                      |
 | **View Records**      | Admin, Receptionist, Patient | Access relevant records: Admin (all data), Receptionist (operational data), Patient (personal data). |
 
+## USE CASE DIAGRAM 
+![image alt](https://github.com/adarsh2345-cyber/Hospital-Management-System/blob/2b4f555c7b44204ede4aab3f1a71ee0da0e9d99a/Images/USE%20CASE%20DIAGRAM.png)
+
 
 # OUTPUTS:
 1. If username and password is valid.
@@ -224,7 +227,7 @@ This dataset stores emergency contacts for patients, typically relatives or clos
 
 # ER DIAGRAM 
 
-![image alt](https://github.com/adarsh2345-cyber/Hospital-Management-System/blob/f603699c89424d9ccfe534643d23626ddee18d30/Untitled%20Diagram-Page-1.drawio.png) 
+![image alt](
 
 # FUTURE ENHANCEMENTS 
 
